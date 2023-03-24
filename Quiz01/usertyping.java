@@ -1,4 +1,4 @@
-package s2java;
+package Quiz01;
 import java.util.Scanner;
 public class usertyping {
     public static void main(String[] args) {
